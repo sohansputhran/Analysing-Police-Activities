@@ -1,2 +1,2 @@
-# Analysing-Police-Activities
-Analysing the police activities by using the datasets from the Stanford Open Policing Project (https://openpolicing.stanford.edu) which contains the data of all the traffic stops made by the law enforcement agencies in United States of America. In this project, I have considered the dataset of the illinois state for analysing.
+# Analysing Police Activities
+Analysing the police activities by using the datasets from the Stanford Open Policing Project (https://openpolicing.stanford.edu) which contains the data of all the traffic stops made by the law enforcement agencies in United States of America. In this project, I have considered the dataset of the illinois state for analysing. And I have used the dataset from National Climatic Data Center (https://www.ncdc.noaa.gov) to get the weather data to see if it has any impact on the traffice stops.
